@@ -175,4 +175,3 @@ def handle_message(message):
 
 # Запускаем бота
 bot.polling()
-
